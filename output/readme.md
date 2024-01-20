@@ -7,7 +7,7 @@
 
 ## Description
 
- Write a node js application to take in information through a series of questions and generate a readme.
+Write a node js application to take in information through a series of questions and generate a readme.
 
 ## Table of Contents 
 
@@ -30,26 +30,26 @@
 
 ## Installation
 
- npm inquirer
+npm inquirer
 
 ## Usage
 
-
+ After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required information. The readme will be created in the ./output folder.
 
 
 ## License 
- This app is licensed by GPL 3.0
+ This app is licensed by MIT
 
-![Static Badge](https://img.shields.io/badge/license-GPL3.0-brightgreen.svg)
+![Static Badge](https://img.shields.io/badge/license-mit-brightgreen.svg)
 
-https://www.gnu.org/licenses/gpl-3.0.en.html
+https://opensource.org/license/mit/
 
 
 ## Contacts
 
-Email: Glurk33@gmail.com 
+Email:  Glurk33@gmail.com 
 
-Github: 
+Github: https://github.com/Jbyrd126
 
 
 ## Contributing
@@ -58,10 +58,10 @@ If you created an application or package and would like other developers to cont
 
 ## Questions
 
-If you have any questions about the application, please email me at Glurk33@gmail.com!
+If you have any questions about the application, please email me at  Glurk33@gmail.com!
 
 ## Issues
 
-For any is issues please visit my Github repo https://github.com/Jbyrd126/ReadmeGenerator/issues
+For any is issues please visit my Github repo  https://github.com/Jbyrd126/ReadmeGenerator/issues
 
 
