@@ -1,32 +1,30 @@
 # Readme Generator
 
-  
+![Screeny](<Screenshot (11).png>)
 
-
-  
+https://drive.google.com/file/d/1LotMKC-U1vtCZr_0b5nCo-xBz3AIrge8/view
 
 ## Description
 
 Write a node js application to take in information through a series of questions and generate a readme.
 
-## Table of Contents 
+## Table of Contents
 
-* [Installation](#installation)
+- [Installation](#installation)
 
-* [Usage](#usage)
+- [Usage](#usage)
 
-* [License](#license)
+- [License](#license)
 
-* [Contacts](#contacts)
+- [Contacts](#contacts)
 
-* [Contributing](#contributing)
+- [Contributing](#contributing)
 
-* [Tests](#tests)
+- [Tests](#tests)
 
-* [Questions](#questions)
+- [Questions](#questions)
 
-* [Issues](#issues)
-
+- [Issues](#issues)
 
 ## Installation
 
@@ -34,23 +32,21 @@ npm inquirer
 
 ## Usage
 
- After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required information. The readme will be created in the ./output folder.
+After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required information. The readme will be created in the ./output folder.
 
+## License
 
-## License 
- This app is licensed by MIT
+This app is licensed by MIT
 
 ![Static Badge](https://img.shields.io/badge/license-mit-brightgreen.svg)
 
 https://opensource.org/license/mit/
 
-
 ## Contacts
 
-Email:  Glurk33@gmail.com 
+Email: Glurk33@gmail.com
 
 Github: https://github.com/Jbyrd126
-
 
 ## Contributing
 
@@ -58,10 +54,8 @@ If you created an application or package and would like other developers to cont
 
 ## Questions
 
-If you have any questions about the application, please email me at  Glurk33@gmail.com!
+If you have any questions about the application, please email me at Glurk33@gmail.com!
 
 ## Issues
 
-For any is issues please visit my Github repo  https://github.com/Jbyrd126/ReadmeGenerator/issues
-
-
+For any is issues please visit my Github repo https://github.com/Jbyrd126/ReadmeGenerator/issues
