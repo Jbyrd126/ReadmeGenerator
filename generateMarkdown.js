@@ -25,7 +25,7 @@ function renderLicenseBadge(licenses) {
     }
 
   });
-  return badges.join(' ');
+  return badges.join('\n \n ');
 }
 
 // TODO: Create a function that returns the license link
