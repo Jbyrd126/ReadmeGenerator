@@ -29,7 +29,7 @@ const questions = [{
 }, {
     type: "input",
     name: "install",
-    message: "What are the required steps to install your project?",
+    message: "What is required packages to install for your project?",
 },
 {
     type: "input",
@@ -68,7 +68,7 @@ const questions = [{
 {
     type: "input",
     name: "usage",
-    message: "What does the user need to know about using your project?",
+    message: "Provide information for using the application.",
 
 },
 
@@ -79,12 +79,6 @@ const questions = [{
 
 },
 
-{
-    type: "input",
-    name: "tests",
-    message: "How can the user test your app",
-
-},
 ];
 
 // TODO: Create a function to write README file

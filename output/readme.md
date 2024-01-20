@@ -1,13 +1,13 @@
 # Readme Generator
 
-  ![Static Badge](https://img.shields.io/badge/license-Apache2.0-brightgreen.svg)
+  
 
 
   
 
 ## Description
 
-Write a node app so the user can add iformation through a list of questions and have that data added to a template for a README.md
+ Write a node js application to take in information through a series of questions and generate a readme.
 
 ## Table of Contents 
 
@@ -30,51 +30,38 @@ Write a node app so the user can add iformation through a list of questions and 
 
 ## Installation
 
-npm i ReadmeGenerator
+ npm inquirer
 
 ## Usage
 
-asdfasf
+
 
 
 ## License 
- This app is licensed by APACHE 2.0
+ This app is licensed by GPL 3.0
 
-https://www.apache.org/licenses/LICENSE-2.0
+![Static Badge](https://img.shields.io/badge/license-GPL3.0-brightgreen.svg)
+
+https://www.gnu.org/licenses/gpl-3.0.en.html
 
 
 ## Contacts
 
-asdfasdf 
+Email: Glurk33@gmail.com 
 
-asdfasf
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-
-
+Github: 
 
 
 ## Contributing
 
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
-## Tests
-dsafasf
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-
 ## Questions
 
-email: asdfasdf
-
-github: [visit my Github](https://www.github.com/asdfasf)
+If you have any questions about the application, please email me at Glurk33@gmail.com!
 
 ## Issues
 
-sdfsdfsdf
+For any is issues please visit my Github repo https://github.com/Jbyrd126/ReadmeGenerator/issues
 
 
