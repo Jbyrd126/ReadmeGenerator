@@ -42,6 +42,49 @@ const questions = [{
         return true;
     }
 },
+
+{
+    type: "checkbox",
+    name: "license",
+    choices: ["APACHE 2.0", "MIT", "GPL 3.0", "BSD 3"],
+    message: "What license(s) were used for this project? ",
+
+},
+
+{
+    type: "input",
+    name: "email",
+    message: "What is your email?",
+
+},
+
+{
+    type: "input",
+    name: "github",
+    message: "Where can i see your projects",
+
+},
+
+{
+    type: "input",
+    name: "usage",
+    message: "What does the user need to know about using your project?",
+
+},
+
+{
+    type: "input",
+    name: "contributing",
+    message: "Let user know how to contribute to your project",
+
+},
+
+{
+    type: "input",
+    name: "tests",
+    message: "How can the user test your app",
+
+},
 ];
 
 // TODO: Create a function to write README file
