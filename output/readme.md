@@ -1,48 +1,56 @@
-# Readme Generator
+# E-Comms
+
+  
+
+
+  
 
 ## Description
 
-Write a node js application to take in information through a series of questions and generate a readme.
+This is a backend application for an ecommerce site that uses Sequelize to interact with a MySQL DBeaver database. Using insomnia, a user can interact with the backend to view the products, categories, and tags aswell as use CRUD methods to change these items inside the databse.
 
-## Table of Contents
+## Table of Contents 
 
-- [Installation](#installation)
+* [Installation](#installation)
 
-- [Usage](#usage)
+* [Usage](#usage)
 
-- [License](#license)
+* [License](#license)
 
-- [Contacts](#contacts)
+* [Contacts](#contacts)
 
-- [Contributing](#contributing)
+* [Contributing](#contributing)
 
-- [Tests](#tests)
+* [Tests](#tests)
 
-- [Questions](#questions)
+* [Questions](#questions)
 
-- [Issues](#issues)
+* [Issues](#issues)
+
 
 ## Installation
 
-npm inquirer
+Clone code from github - NPM install Mysql2 and sequelize.
 
 ## Usage
 
-After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required information. The readme will be created in the ./output folder.
+To use this application a user needs to start the server on local host then use an application like Insomina or Postman to make CRUD requests to the database.
 
-## License
 
-This app is licensed by MIT
+## License 
+ This app is licensed by 
 
-![Static Badge](https://img.shields.io/badge/license-mit-brightgreen.svg)
 
-https://opensource.org/license/mit/
+
+
+
 
 ## Contacts
 
-Email: Glurk33@gmail.com
+Email: jbyrd126@gmail.com 
 
 Github: https://github.com/Jbyrd126
+
 
 ## Contributing
 
@@ -50,8 +58,10 @@ If you created an application or package and would like other developers to cont
 
 ## Questions
 
-If you have any questions about the application, please email me at Glurk33@gmail.com!
+If you have any questions about the application, please email me at jbyrd126@gmail.com!
 
 ## Issues
 
-For any is issues please visit my Github repo https://github.com/Jbyrd126/ReadmeGenerator/issues
+For any is issues please visit my Github repo https://github.com/Jbyrd126/issues
+
+
